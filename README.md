@@ -1,6 +1,6 @@
 ### Hey, I'm Parsa!
 
-* Software Engineering Student at McGill University
+* Incoming Software Engineering Student at McGill University
 * Diving into web/mobile app development + machine learning
 * Grinding Hackathons for experience
 
